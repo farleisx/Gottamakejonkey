@@ -1,0 +1,9 @@
+{
+  "name": "ai-builder-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^3.3.1"
+  }
+}
